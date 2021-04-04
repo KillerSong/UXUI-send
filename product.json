@@ -1,0 +1,24 @@
+[{
+    "id":"1",
+    "name":"ขนมเลย์ รส อริจินอล",
+    "price": "20",
+    "image":"https://cf.shopee.co.th/file/9acedb15f8b04f61d9f2b80204f9a7ab"
+},
+{
+    "id":"2",
+    "name":"ขนมเลย์ รส โนริสาหร่าย",
+    "price": "20",
+    "image":"http://ustatic.priceza.com/img/productgroup/73884-1-l.jpg"
+},
+{
+    "id":"3",
+    "name":"ขนมเลย์ รส หมึกอย่างฮอสชิลลี่",
+    "price": "20",
+    "image":"https://th-test-11.slatic.net/p/18ff2cea36ffde7e6afdb7ea8d986f2f.jpg"
+},
+{
+    "id":"4",
+    "name":"ขนมเลย์ รส กระเพรากรอบ",
+    "price": "20",
+    "image":"https://i.pinimg.com/originals/16/6f/5f/166f5f3d81788184baf166e89547ac41.jpg"
+}]
